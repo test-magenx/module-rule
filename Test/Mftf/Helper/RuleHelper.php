@@ -18,7 +18,7 @@ use Magento\FunctionalTestingFramework\Module\MagentoWebDriver;
 class RuleHelper extends Helper
 {
     /**
-     * Deletes all Catalog Price Rules one by one.
+     * Delete all Catalog Price Rules obe by one.
      *
      * @param string $emptyRow
      * @param string $modalAceptButton
